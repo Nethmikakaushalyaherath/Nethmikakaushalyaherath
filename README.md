@@ -15,7 +15,7 @@
     <img src="https://telegra.ph/file/125ac49e3762efedace06.jpg" width="700px">
 
 
-***Click [FORK](https://github.com/Nethmikakaushalyaherath/Nethmikakaushalyaherath/network/members)***
+***Click [FORK](https://github.com/Nethmikakaushalyaherath/Nethmikakaushalyaherath-MD-fork)***
     
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -31,6 +31,17 @@
   <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VaexBKX4SpkOBf4W5H1g" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
+
+## DEPLOY BY SESSION ID or creds.json (Qr code)
+
+<a href="https://pairing1-9450d1f488c5.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+
+
+***Wait few minutes to open qr 👇***
+
+<a href="https://paircode2-2034df265851.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+
 
 ### Contact My Main Owner
  <p align="center">
