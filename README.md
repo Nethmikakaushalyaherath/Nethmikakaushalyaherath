@@ -15,7 +15,7 @@
     <img src="https://telegra.ph/file/125ac49e3762efedace06.jpg" width="700px">
 
 
-***Click [FORK](gh repo clone Nethmikakaushalyaherath/Nethmikakaushalyaherath)***
+***Click [FORK](git@github.com:Nethmikakaushalyaherath/Nethmikakaushalyaherath.git)***
     
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
